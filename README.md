@@ -88,19 +88,11 @@ The receiver correctly reconstructed the transmitted data and asserted `rx_done`
 
 ---
 
-## Waveform
-
-The waveform below demonstrates successful UART transmission and reception.
-
-![UART Waveform](Waveforms/uart_loopback_waveform.png)
-
----
 
 ## Tools Used
 
 * Verilog HDL
 * ModelSim Intel FPGA Edition
-* GitHub
 
 ---
 
