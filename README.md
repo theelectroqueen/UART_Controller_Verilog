@@ -104,7 +104,7 @@ The waveform below demonstrates successful UART transmission and reception.
 
 ---
 
-## Folder Structure
+## Structure
 
 ```text
 UART_Controller_Verilog
@@ -128,4 +128,4 @@ UART_Controller_Verilog
 
 ## Author
 
-Lucky
+Snigdha Roy Chowdhury
